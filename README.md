@@ -20,16 +20,11 @@ Accept: application/json
     "status": 200,
     "message": "OK",
     "data": {
-        "name": "somatra-dev",
+        "full_name": "Chey Somatra",
         "role": "Full Stack Developer",
         "location": "Phnom Penh, Cambodia",
         "available_for_hire": true,
-        "skills": {
-            "frontend": ["React", "HTML5", "CSS3"],
-            "backend": ["Node.js", "Python"],
-            "databases": ["MongoDB", "PostgreSQL"],
-            "tools": ["Git", "Docker"]
-        },
+        "study_at": "ISTAD", 
         "current_focus": "Spring Microservice",
         "My Quote": "Motion not Action"
     }
@@ -108,9 +103,11 @@ Accept: application/json
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/yourprofile)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:your@email.com)
+[![Facebook](https://img.shields.io/badge/Facebook-0d1117?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/share/17jcxGfFvf/?mibextid=wwXIfr)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F)](https://www.instagram.com/bee__yasuzzz?igsh=MTR6M3ZxOHQ0OG02Zw%3D%3D&utm_source=qr)
+[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=5865F2)](https://discord.com/users/896786174142722149)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:somatrachey9527@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/cheysomatra)
 
 </div>
 
