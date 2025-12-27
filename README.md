@@ -37,19 +37,21 @@ interests: [Clean Code, Open Source, Problem Solving]
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=somatra-dev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somatra-dev&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somatra-dev&theme=github_dark" alt="Profile Details"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somatra-dev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=8b949e&dates=8b949e" alt="GitHub Streak"/></div>
-
-<br>
-
-## Activity Graph
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somatra-dev&theme=github_dark" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somatra-dev&theme=github_dark&utcOffset=7" alt="Productive Time"/>
+</div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somatra-dev&bg_color=0d1117&color=8b949e&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somatra-dev&theme=github_dark" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somatra-dev&theme=github_dark" alt="Top Languages by Commit"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=somatra-dev&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
 </div>
 
 <br>
