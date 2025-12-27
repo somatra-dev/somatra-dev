@@ -2,15 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:2ea043&height=120&section=header)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=fffff&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chey+Somatra+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=3000&pause=1000&color=fffff&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chey+Somatra+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=somatra-dev&style=flat-square&color=2ea043&label=Profile%20Views" alt="Profile views"/>
 
 </div>
 
----
-
-### About Me
+## About Me
 
 <div align="center">
 <table>
@@ -48,7 +46,7 @@ Content-Type: application/json
 </div>
 
 
-## Tech Stack
+## My Tech Stack
 
 <table>
 <tr>
@@ -90,7 +88,7 @@ Content-Type: application/json
 </table>
 
 
-## GitHub Stats
+## My GitHub Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somatra-dev&theme=github_dark" alt="Profile Details"/>
@@ -106,16 +104,13 @@ Content-Type: application/json
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somatra-dev&theme=github_dark" alt="Top Languages by Commit"/>
 </div>
 
-
-## Contribution Graph
-
+---
 <div align="center">
   <img src="https://raw.githubusercontent.com/somatra-dev/somatra-dev/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
 </div>
 
 
-
-## Connect
+## Contact Me
 
 <div align="center">
 
