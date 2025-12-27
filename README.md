@@ -56,6 +56,7 @@ Accept: application/json
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs"/>
 <img width="8"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring"/>
+<img height="30"  src="https://img.icons8.com/officel/80/spring-logo.png" alt="spring-logo"/>
 
 **Database**<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
