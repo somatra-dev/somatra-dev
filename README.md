@@ -8,29 +8,77 @@
 
 ## About Me
 
-```yaml
-name: somatra-dev
-role: Full Stack Developer
-location: Earth
-currently_learning: Always something new
-interests: [Clean Code, Open Source, Problem Solving]
+```http
+GET /api/developer/somatra-dev HTTP/1.1
+Host: github.com
+Content-Type: application/json
+Accept: application/json
 ```
 
-<br>
+```json
+{
+    "status": 200,
+    "message": "OK",
+    "data": {
+        "name": "somatra-dev",
+        "role": "Full Stack Developer",
+        "location": "Phnom Penh, Cambodia",
+        "available_for_hire": true,
+        "skills": {
+            "frontend": ["React", "HTML5", "CSS3"],
+            "backend": ["Node.js", "Python"],
+            "databases": ["MongoDB", "PostgreSQL"],
+            "tools": ["Git", "Docker"]
+        },
+        "current_focus": "Spring Microservice",
+        "My Quote": "Motion not Action"
+    }
+}
+```
 
 ## Tech Stack
 
-<div align="center">
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm95eHdvOTZ5ZHh3dmU0bWk4cXhiNnZxeHc2MnozYTU5d2Rna215OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Coding GIF"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C%23](https://img.shields.io/badge/C%23-0d1117?style=for-the-badge&logo=csharp&logoColor=512BD4)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=1572B6)
+**Frontend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs"/>
 
-</div>
+**Backend**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring"/>
+
+**Database**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle"/>
+
+**Tools**<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github"/>
+<img width="8"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab"/>
+
+<br clear="both"/>
 
 <br>
 
