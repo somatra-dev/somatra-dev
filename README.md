@@ -1,18 +1,26 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=somatra-dev&fontSize=60&fontColor=c9d1d9&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:2ea043&height=120&section=header)
 
-<img src="https://komarev.com/ghpvc/?username=somatra-dev&style=flat-square&color=161b22&label=Profile%20Views" alt="Profile views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=fffff&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chey+Somatra+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=somatra-dev&style=flat-square&color=2ea043&label=Profile%20Views" alt="Profile views"/>
 
 </div>
 
-## About Me
+---
+
+### About Me
+
+<div align="center">
+<table>
+<tr>
+<td>
 
 ```http
 GET /api/developer/somatra-dev HTTP/1.1
 Host: github.com
 Content-Type: application/json
-Accept: application/json
 ```
 
 ```json
@@ -24,58 +32,63 @@ Accept: application/json
         "role": "Full Stack Developer",
         "location": "Phnom Penh, Cambodia",
         "available_for_hire": true,
-        "study_at": "ISTAD", 
+        "study_at": "ISTAD",
         "current_focus": "Spring Microservice",
-        "My Quote": "Motion not Action"
+        "quote": "Motion not Action"
     }
 }
 ```
 
+</td>
+<td>
+<img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm95eHdvOTZ5ZHh3dmU0bWk4cXhiNnZxeHc2MnozYTU5d2Rna215OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Coding GIF"/>
+</td>
+</tr>
+</table>
+</div>
+
+
 ## Tech Stack
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm95eHdvOTZ5ZHh3dmU0bWk4cXhiNnZxeHc2MnozYTU5d2Rna215OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif" alt="Coding GIF"/>
+<table>
+<tr>
+<td valign="top" width="33%">
 
-**Frontend**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs"/>
+**Frontend**
 
-**Backend**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring"/>
+![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0d1117?style=flat-square&logo=tailwindcss)
 
-**Database**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle"/>
+</td>
+<td valign="top" width="33%">
 
-**Tools**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github"/>
-<img width="8"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab"/>
+**Backend**
 
-<br clear="both"/>
+![Spring](https://img.shields.io/badge/-Spring-0d1117?style=flat-square&logo=spring)
+![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb)
+![Oracle](https://img.shields.io/badge/-Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
 
-<br>
+</td>
+<td valign="top" width="33%">
+
+**Tools**
+
+![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-0d1117?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-0d1117?style=flat-square&logo=gitlab)
+
+</td>
+</tr>
+</table>
+
 
 ## GitHub Stats
 
@@ -93,11 +106,14 @@ Accept: application/json
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somatra-dev&theme=github_dark" alt="Top Languages by Commit"/>
 </div>
 
+
+## Contribution Graph
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=somatra-dev&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak"/>
+  <img src="https://raw.githubusercontent.com/somatra-dev/somatra-dev/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
 </div>
 
-<br>
+
 
 ## Connect
 
@@ -111,12 +127,8 @@ Accept: application/json
 
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/somatra-dev/somatra-dev/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:2ea043&height=100&section=footer)
+
 </div>
-
-<br>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=120&section=footer)
