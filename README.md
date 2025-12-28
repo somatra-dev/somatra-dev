@@ -45,36 +45,48 @@ Content-Type: application/json
 </table>
 </div>
 
-
 ## My Tech Stack
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Frontend**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-0d1117?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0d1117?style=flat-square&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-0d1117?style=flat-square&logo=bootstrap&logoColor=7952B3)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-0d1117?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-0d1117?style=flat-square&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-0d1117?style=flat-square&logo=tailwindcss)
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 **Backend**
 
+![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring](https://img.shields.io/badge/-Spring-0d1117?style=flat-square&logo=spring)
 ![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb)
 ![Oracle](https://img.shields.io/badge/-Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
 
+
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
+
+**DevOps**
+
+![Kafka](https://img.shields.io/badge/-Kafka-0d1117?style=flat-square&logo=apachekafka)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0d1117?style=flat-square&logo=googlecloud)
+![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
+![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux)
+
+</td>
+<td valign="top" width="25%">
 
 **Tools**
 
