@@ -69,18 +69,17 @@ Content-Type: application/json
 
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring](https://img.shields.io/badge/-Spring-0d1117?style=flat-square&logo=spring)
+![Kafka](https://img.shields.io/badge/-Kafka-0d1117?style=flat-square&logo=apachekafka)
 ![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb)
 ![Oracle](https://img.shields.io/badge/-Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
-
 
 </td>
 <td valign="top" width="25%">
 
 **DevOps**
 
-![Kafka](https://img.shields.io/badge/-Kafka-0d1117?style=flat-square&logo=apachekafka)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-0d1117?style=flat-square&logo=googlecloud)
 ![Nginx](https://img.shields.io/badge/-Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 ![Linux](https://img.shields.io/badge/-Linux-0d1117?style=flat-square&logo=linux)
@@ -98,7 +97,6 @@ Content-Type: application/json
 </td>
 </tr>
 </table>
-
 
 ## My GitHub Stats
 
@@ -120,7 +118,6 @@ Content-Type: application/json
 <div align="center">
   <img src="https://raw.githubusercontent.com/somatra-dev/somatra-dev/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
 </div>
-
 
 ## Contact Me
 
