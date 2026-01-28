@@ -1,8 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:2ea043&height=120&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:2ea043&height=200&section=header&text=Hi,%20I'm%20Chey%20Somatra%20&font=Georgia&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=42&duration=3000&pause=1000&color=fffff&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Chey+Somatra+%F0%9F%91%8B;Full+Stack+Developer;)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=somatra-dev&style=flat-square&color=2ea043&label=Profile%20Views" alt="Profile views"/>
 
