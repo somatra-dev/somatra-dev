@@ -108,7 +108,7 @@ Content-Type: application/json
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somatra-dev&layout=donut&theme=nord&hide_border=true" alt="Top Languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somatra-dev&layout=compact&theme=nord&hide_border=true" alt="Top Languages"/>
   
 </div>
 
