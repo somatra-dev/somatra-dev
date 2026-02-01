@@ -100,17 +100,16 @@ Content-Type: application/json
 ## My GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=somatra-dev&theme=github_dark" alt="Profile Details"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somatra-dev&theme=nord&hide_border=true" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=somatra-dev&theme=github_dark" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=somatra-dev&theme=github_dark&utcOffset=7" alt="Productive Time"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=somatra-dev&theme=nord&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=somatra-dev&theme=github_dark" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=somatra-dev&theme=github_dark" alt="Top Languages by Commit"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somatra-dev&layout=donut&theme=nord&hide_border=true" alt="Top Languages"/>
+  
 </div>
 
 ---
