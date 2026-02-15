@@ -67,11 +67,9 @@ Content-Type: application/json
 
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
 ![Spring](https://img.shields.io/badge/-Spring-0d1117?style=flat-square&logo=spring)
-![Kafka](https://img.shields.io/badge/-Kafka-0d1117?style=flat-square&logo=apachekafka)
 ![NestJS](https://img.shields.io/badge/-NestJS-0d1117?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0d1117?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0d1117?style=flat-square&logo=mongodb)
-![Oracle](https://img.shields.io/badge/-Oracle-0d1117?style=flat-square&logo=oracle&logoColor=F80000)
 
 </td>
 <td valign="top" width="25%">
@@ -104,10 +102,6 @@ Content-Type: application/json
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=somatra-dev&theme=nord&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=somatra-dev&show_icons=true&locale=en&layout=compact&v=2" alt="somatra-dev" />
 </div>
 
 ---
