@@ -96,13 +96,12 @@ Content-Type: application/json
 
 ## My GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somatra-dev&theme=nord&hide_border=true" alt="Contribution Graph"/>
-</div>
 
 <div align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=somatra-dev&theme=nord&hide_border=true" alt="GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=somatra-dev&title_color=c674ff&text_color=FFFFFF&icon_color=FFFFFF&bg_color=0D1017&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs"/>
 </div>
+
 
 ---
 <div align="center">
