@@ -102,9 +102,9 @@ Content-Type: application/json
 
 
 ---
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/somatra-dev/somatra-dev/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
-</div>
+</div> -->
 
 ## Contact Me
 
