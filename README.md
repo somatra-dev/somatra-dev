@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=somatra-dev&style=flat-square&color=2ea043&label=Profile%20Views" alt="Profile views"/>
 
@@ -122,4 +122,4 @@ Content-Type: application/json
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:2ea043&height=100&section=footer)
 
-</div>
+</div> -->
